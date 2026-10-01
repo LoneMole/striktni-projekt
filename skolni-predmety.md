@@ -1,5 +1,7 @@
 Co je potreba studovat:
 
-  - [ ] Cestinu
+  - [X] Cestinu
   - [ ] Matematiku
   - [ ] Prirodopis
+  - [ ] Deskriptivní geometrie
+  - [ ] :)
